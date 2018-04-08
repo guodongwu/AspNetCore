@@ -1,0 +1,9 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@foreach (var item in Model)
+{
+    <p><span>@item.UserName</span>&nbsp;<span>@item.Password</span></p>
+}

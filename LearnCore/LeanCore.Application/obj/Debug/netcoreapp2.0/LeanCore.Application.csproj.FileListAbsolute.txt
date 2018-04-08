@@ -1,0 +1,12 @@
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\bin\Debug\netcoreapp2.0\LeanCore.Application.deps.json
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\bin\Debug\netcoreapp2.0\LeanCore.Application.dll
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\bin\Debug\netcoreapp2.0\LeanCore.Application.pdb
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\obj\Debug\netcoreapp2.0\LeanCore.Application.csprojResolveAssemblyReference.cache
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\obj\Debug\netcoreapp2.0\LeanCore.Application.csproj.CoreCompileInputs.cache
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\obj\Debug\netcoreapp2.0\LeanCore.Application.AssemblyInfoInputs.cache
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\obj\Debug\netcoreapp2.0\LeanCore.Application.AssemblyInfo.cs
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\obj\Debug\netcoreapp2.0\LeanCore.Application.dll
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\obj\Debug\netcoreapp2.0\LeanCore.Application.pdb
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\bin\Debug\netcoreapp2.0\LeanCore.Core.dll
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\bin\Debug\netcoreapp2.0\LeanCore.Core.pdb
+c:\users\wu\source\repos\LearnCore\LeanCore.Application\obj\Debug\netcoreapp2.0\LeanCore.Application.csproj.CopyComplete
