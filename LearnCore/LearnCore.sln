@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCore.Web", "LearnCore.Web\LearnCore.Web.csproj", "{62ED817A-3E26-4310-B6BB-1524A4378740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnCore.Web", "LearnCore.Web\LearnCore.Web.csproj", "{62ED817A-3E26-4310-B6BB-1524A4378740}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCore.Application", "LeanCore.Application\LearnCore.Application.csproj", "{C4380A09-9A6B-4C90-A4B9-93190B33760C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnCore.Application", "LeanCore.Application\LearnCore.Application.csproj", "{C4380A09-9A6B-4C90-A4B9-93190B33760C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCore.EntityFramework", "LeanCore.EntityFramework\LearnCore.EntityFramework.csproj", "{CD951AB5-B8CE-4FAC-B68B-3E756B1B1B41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnCore.EntityFramework", "LeanCore.EntityFramework\LearnCore.EntityFramework.csproj", "{CD951AB5-B8CE-4FAC-B68B-3E756B1B1B41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCore.Core", "LeanCore.Core\LearnCore.Core.csproj", "{4CFE4030-CB1F-4F75-9844-829CDEC834D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnCore.Core", "LeanCore.Core\LearnCore.Core.csproj", "{4CFE4030-CB1F-4F75-9844-829CDEC834D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCore.Untity", "LearnCore.Untity\LearnCore.Untity.csproj", "{6A66E320-9709-4E50-AB69-40A9BEFFEA1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4CFE4030-CB1F-4F75-9844-829CDEC834D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CFE4030-CB1F-4F75-9844-829CDEC834D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CFE4030-CB1F-4F75-9844-829CDEC834D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A66E320-9709-4E50-AB69-40A9BEFFEA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A66E320-9709-4E50-AB69-40A9BEFFEA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A66E320-9709-4E50-AB69-40A9BEFFEA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A66E320-9709-4E50-AB69-40A9BEFFEA1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

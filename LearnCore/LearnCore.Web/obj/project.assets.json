@@ -5089,6 +5089,19 @@
         "runtime": {
           "bin/placeholder/LearnCore.EntityFramework.dll": {}
         }
+      },
+      "LearnCore.Untity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Memory": "2.0.1"
+        },
+        "compile": {
+          "bin/placeholder/LearnCore.Untity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearnCore.Untity.dll": {}
+        }
       }
     }
   },
@@ -13207,12 +13220,18 @@
       "type": "project",
       "path": "../LeanCore.EntityFramework/LearnCore.EntityFramework.csproj",
       "msbuildProject": "../LeanCore.EntityFramework/LearnCore.EntityFramework.csproj"
+    },
+    "LearnCore.Untity/1.0.0": {
+      "type": "project",
+      "path": "../LearnCore.Untity/LearnCore.Untity.csproj",
+      "msbuildProject": "../LearnCore.Untity/LearnCore.Untity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "LearnCore.Application >= 1.0.0",
       "LearnCore.EntityFramework >= 1.0.0",
+      "LearnCore.Untity >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.6",
       "Microsoft.EntityFrameworkCore >= 2.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.2",
@@ -13258,6 +13277,9 @@
             },
             "D:\\Study\\AspNetCore\\LearnCore\\LeanCore.EntityFramework\\LearnCore.EntityFramework.csproj": {
               "projectPath": "D:\\Study\\AspNetCore\\LearnCore\\LeanCore.EntityFramework\\LearnCore.EntityFramework.csproj"
+            },
+            "D:\\Study\\AspNetCore\\LearnCore\\LearnCore.Untity\\LearnCore.Untity.csproj": {
+              "projectPath": "D:\\Study\\AspNetCore\\LearnCore\\LearnCore.Untity\\LearnCore.Untity.csproj"
             }
           }
         }

@@ -1,0 +1,16 @@
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\bin\Debug\netcoreapp2.0\LearnCore.Untity.deps.json
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\bin\Debug\netcoreapp2.0\LearnCore.Untity.dll
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Caching.Redis.dll
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\bin\Debug\netcoreapp2.0\StackExchange.Redis.StrongName.dll
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Caching.Redis.xml
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\bin\Debug\netcoreapp2.0\StackExchange.Redis.StrongName.xml
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\obj\Debug\netcoreapp2.0\LearnCore.Untity.csprojResolveAssemblyReference.cache
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\obj\Debug\netcoreapp2.0\LearnCore.Untity.csproj.CoreCompileInputs.cache
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\obj\Debug\netcoreapp2.0\LearnCore.Untity.AssemblyInfoInputs.cache
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\obj\Debug\netcoreapp2.0\LearnCore.Untity.AssemblyInfo.cs
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\obj\Debug\netcoreapp2.0\LearnCore.Untity.csproj.CopyComplete
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\bin\Debug\netcoreapp2.0\LearnCore.Untity.pdb
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\obj\Debug\netcoreapp2.0\LearnCore.Untity.dll
+D:\Study\AspNetCore\LearnCore\LearnCore.Untity\obj\Debug\netcoreapp2.0\LearnCore.Untity.pdb

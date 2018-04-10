@@ -25,6 +25,7 @@
         "dependencies": {
           "LearnCore.Application": "1.0.0",
           "LearnCore.EntityFramework": "1.0.0",
+          "LearnCore.Untity": "1.0.0",
           "Microsoft.AspNetCore.All": "2.0.6",
           "Microsoft.EntityFrameworkCore": "2.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.2",
@@ -4111,6 +4112,17 @@
           "LearnCore.EntityFramework.dll": {}
         }
       },
+      "LearnCore.Untity/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Memory": "2.0.1"
+        },
+        "runtime": {
+          "LearnCore.Untity.dll": {}
+        },
+        "compile": {
+          "LearnCore.Untity.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.0.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.0.0",
@@ -6441,6 +6453,11 @@
       "sha512": ""
     },
     "LearnCore.EntityFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LearnCore.Untity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

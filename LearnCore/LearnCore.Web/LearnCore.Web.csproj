@@ -18,6 +18,7 @@
   <ItemGroup>
     <ProjectReference Include="..\LeanCore.Application\LearnCore.Application.csproj" />
     <ProjectReference Include="..\LeanCore.EntityFramework\LearnCore.EntityFramework.csproj" />
+    <ProjectReference Include="..\LearnCore.Untity\LearnCore.Untity.csproj" />
   </ItemGroup>
 
 </Project>

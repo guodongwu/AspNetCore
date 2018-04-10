@@ -34,3 +34,5 @@ D:\Study\AspNetCore\LearnCore\LearnCore.Web\obj\Debug\netcoreapp2.0\LearnCore.We
 D:\Study\AspNetCore\LearnCore\LearnCore.Web\obj\Debug\netcoreapp2.0\LearnCore.Web.csproj.CopyComplete
 D:\Study\AspNetCore\LearnCore\LearnCore.Web\obj\Debug\netcoreapp2.0\LearnCore.Web.dll
 D:\Study\AspNetCore\LearnCore\LearnCore.Web\obj\Debug\netcoreapp2.0\LearnCore.Web.pdb
+D:\Study\AspNetCore\LearnCore\LearnCore.Web\bin\Debug\netcoreapp2.0\LearnCore.Untity.dll
+D:\Study\AspNetCore\LearnCore\LearnCore.Web\bin\Debug\netcoreapp2.0\LearnCore.Untity.pdb

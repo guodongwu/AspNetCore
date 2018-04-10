@@ -40,12 +40,31 @@ namespace LearnCore.Web
             ServiceRegister.RegisterAssembly(services, "LearnCore.Core");
             ServiceRegister.RegisterAssembly(services, "LearnCore.EntityFramework");
             ServiceRegister.RegisterAssembly(services, "LearnCore.Application");
+
+            services.AddSession();
             services.AddMvc();
+            var redisConnection = Configuration["RedisConfig"];
+            var redisInstanceName = Configuration["RedisConfig:InstanceName"];
+            var sessionOutTime = Configuration.GetValue<int>("RedisConfig:SessionTimeOut");
+
+            services.AddDistributedRedisCache(options =>
+            {
+                options.Configuration = redisConnection;
+                options.InstanceName = redisInstanceName;
+            });
+            services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(10);
+                options.Cookie.HttpOnly = true;
+            });
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+
+            app.UseSession();
             if (env.IsDevelopment())
             {
                 app.UseBrowserLink();
@@ -58,6 +77,7 @@ namespace LearnCore.Web
 
             app.UseStaticFiles();
 
+          
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
