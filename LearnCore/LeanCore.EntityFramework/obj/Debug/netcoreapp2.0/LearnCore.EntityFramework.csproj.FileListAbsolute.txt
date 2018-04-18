@@ -11,8 +11,6 @@ c:\users\wu\source\repos\LearnCore\LeanCore.EntityFramework\obj\Debug\netcoreapp
 c:\users\wu\source\repos\LearnCore\LeanCore.EntityFramework\obj\Debug\netcoreapp2.0\LearnCore.EntityFramework.dll
 c:\users\wu\source\repos\LearnCore\LeanCore.EntityFramework\obj\Debug\netcoreapp2.0\LearnCore.EntityFramework.pdb
 D:\Study\AspNetCore\LearnCore\LeanCore.EntityFramework\bin\Debug\netcoreapp2.0\LearnCore.EntityFramework.deps.json
-D:\Study\AspNetCore\LearnCore\LeanCore.EntityFramework\bin\Debug\netcoreapp2.0\LearnCore.EntityFramework.runtimeconfig.json
-D:\Study\AspNetCore\LearnCore\LeanCore.EntityFramework\bin\Debug\netcoreapp2.0\LearnCore.EntityFramework.runtimeconfig.dev.json
 D:\Study\AspNetCore\LearnCore\LeanCore.EntityFramework\bin\Debug\netcoreapp2.0\LearnCore.EntityFramework.dll
 D:\Study\AspNetCore\LearnCore\LeanCore.EntityFramework\bin\Debug\netcoreapp2.0\LearnCore.EntityFramework.pdb
 D:\Study\AspNetCore\LearnCore\LeanCore.EntityFramework\bin\Debug\netcoreapp2.0\LearnCore.Core.dll

@@ -11,8 +11,6 @@ c:\users\wu\source\repos\LearnCore\LeanCore.Application\obj\Debug\netcoreapp2.0\
 c:\users\wu\source\repos\LearnCore\LeanCore.Application\obj\Debug\netcoreapp2.0\LearnCore.Application.dll
 c:\users\wu\source\repos\LearnCore\LeanCore.Application\obj\Debug\netcoreapp2.0\LearnCore.Application.pdb
 D:\Study\AspNetCore\LearnCore\LeanCore.Application\bin\Debug\netcoreapp2.0\LearnCore.Application.deps.json
-D:\Study\AspNetCore\LearnCore\LeanCore.Application\bin\Debug\netcoreapp2.0\LearnCore.Application.runtimeconfig.json
-D:\Study\AspNetCore\LearnCore\LeanCore.Application\bin\Debug\netcoreapp2.0\LearnCore.Application.runtimeconfig.dev.json
 D:\Study\AspNetCore\LearnCore\LeanCore.Application\bin\Debug\netcoreapp2.0\LearnCore.Application.dll
 D:\Study\AspNetCore\LearnCore\LeanCore.Application\bin\Debug\netcoreapp2.0\LearnCore.Application.pdb
 D:\Study\AspNetCore\LearnCore\LeanCore.Application\bin\Debug\netcoreapp2.0\LearnCore.Core.dll

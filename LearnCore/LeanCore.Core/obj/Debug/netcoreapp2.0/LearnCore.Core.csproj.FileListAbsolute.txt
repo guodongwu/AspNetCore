@@ -7,8 +7,6 @@ c:\users\wu\source\repos\LearnCore\LeanCore.Core\obj\Debug\netcoreapp2.0\LearnCo
 c:\users\wu\source\repos\LearnCore\LeanCore.Core\obj\Debug\netcoreapp2.0\LearnCore.Core.dll
 c:\users\wu\source\repos\LearnCore\LeanCore.Core\obj\Debug\netcoreapp2.0\LearnCore.Core.pdb
 D:\Study\AspNetCore\LearnCore\LeanCore.Core\bin\Debug\netcoreapp2.0\LearnCore.Core.deps.json
-D:\Study\AspNetCore\LearnCore\LeanCore.Core\bin\Debug\netcoreapp2.0\LearnCore.Core.runtimeconfig.json
-D:\Study\AspNetCore\LearnCore\LeanCore.Core\bin\Debug\netcoreapp2.0\LearnCore.Core.runtimeconfig.dev.json
 D:\Study\AspNetCore\LearnCore\LeanCore.Core\bin\Debug\netcoreapp2.0\LearnCore.Core.dll
 D:\Study\AspNetCore\LearnCore\LeanCore.Core\bin\Debug\netcoreapp2.0\LearnCore.Core.pdb
 D:\Study\AspNetCore\LearnCore\LeanCore.Core\obj\Debug\netcoreapp2.0\LearnCore.Core.csproj.CoreCompileInputs.cache
@@ -16,3 +14,4 @@ D:\Study\AspNetCore\LearnCore\LeanCore.Core\obj\Debug\netcoreapp2.0\LearnCore.Co
 D:\Study\AspNetCore\LearnCore\LeanCore.Core\obj\Debug\netcoreapp2.0\LearnCore.Core.AssemblyInfo.cs
 D:\Study\AspNetCore\LearnCore\LeanCore.Core\obj\Debug\netcoreapp2.0\LearnCore.Core.dll
 D:\Study\AspNetCore\LearnCore\LeanCore.Core\obj\Debug\netcoreapp2.0\LearnCore.Core.pdb
+D:\Study\AspNetCore\LearnCore\LeanCore.Core\obj\Debug\netcoreapp2.0\LearnCore.Core.csprojResolveAssemblyReference.cache
